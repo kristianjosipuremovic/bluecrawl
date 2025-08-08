@@ -1,3 +1,5 @@
+ON HOLD *** 
+
 Phase 1: Expand Current File Scanner
 
     Improve entropy calculations (whole file, sliding window).
@@ -33,3 +35,4 @@ Phase 4: Finalize & Document
     Add tests and error handling.
 
     Package project (e.g., via setup.py) for easy installation.
+
